@@ -1,3 +1,5 @@
+<img width="2698" height="1224" alt="image" src="https://github.com/user-attachments/assets/57b65f7a-a379-4cfd-a164-57fb89b013d8" />
+
 # ChorrahaMap
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
